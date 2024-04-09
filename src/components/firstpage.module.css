@@ -1,0 +1,10 @@
+.outermostdiv {
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  column-gap: 100px;
+  width: 70%;
+  row-gap: 70px;
+}
